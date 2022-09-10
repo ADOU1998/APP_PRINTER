@@ -1,0 +1,7 @@
+{
+  "name": "APP_PRINTER",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
